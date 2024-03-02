@@ -9,4 +9,9 @@ const calculateAge = () => {
 
 console.log("safi");
 
+
+const gitFn2 = () => {
+    console.log("Hi");
+    }
+
 console.log(calculateAge());

@@ -8,3 +8,6 @@ greetUser( userName);
 
 const name = "safi"
 
+const gitFn = () => {
+console.log("Hi");
+}
