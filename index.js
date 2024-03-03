@@ -15,3 +15,7 @@ const gitFn2 = () => {
     }
 
 console.log(calculateAge());
+
+const newFn = () => {
+    console.log("New function added by safi");
+}
